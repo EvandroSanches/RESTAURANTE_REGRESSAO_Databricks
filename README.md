@@ -3,3 +3,12 @@
 O conjunto de dados de previsão de receita de restaurantes é uma coleção abrangente de dados simulados projetados para prever a receita mensal de um conjunto de restaurantes fictícios. Este conjunto de dados foi criado para fins educacionais e ilustrativos, permitindo que entusiastas de dados explorem e experimentem algoritmos de aprendizado de máquina para tarefas de regressão.
 
 
+### Resultados do treinamento
+
+![image](https://github.com/EvandroSanches/RESTAURANTE_REGRESSAO_Databricks/assets/102191806/622553f8-20b7-4c8e-afac-ab789afcad15)
+
+
+### Resultado dos testes
+
+![image](https://github.com/EvandroSanches/RESTAURANTE_REGRESSAO_Databricks/assets/102191806/c18895ef-348f-46f1-8c75-83f8f0b45a7f)
+
