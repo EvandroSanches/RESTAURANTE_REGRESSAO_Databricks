@@ -18,7 +18,9 @@ O conjunto de dados de previsão de receita de restaurantes é uma coleção abr
 ![image](https://github.com/EvandroSanches/RESTAURANTE_REGRESSAO_Databricks/assets/102191806/622553f8-20b7-4c8e-afac-ab789afcad15)
 
 
-### Resultado dos testes
+## Resultado dos testes
+
+### Previsão utilizando dados de teste
 
 ![image](https://github.com/EvandroSanches/RESTAURANTE_REGRESSAO_Databricks/assets/102191806/c18895ef-348f-46f1-8c75-83f8f0b45a7f)
 
